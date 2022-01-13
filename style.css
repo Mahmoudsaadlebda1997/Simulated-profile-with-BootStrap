@@ -1,0 +1,33 @@
+#photo{
+    width: 10%;
+}
+
+#postButton{
+    width: 10%;
+}
+#dishaImg{
+    width: 100%;
+    height: 100%;
+}
+#hatemImg{
+    width: 100%;
+    height: 100%;
+}
+@media (max-width: 480px) {
+    #postButton{
+        width: 25%;
+    }
+    #photo{
+        width: 15%;
+    }
+    #pImg{
+        font-size: 10px;
+    }
+    #dishaImg{
+        width: 7rem;
+    }
+    #hatemImg{
+        width: 7rem;
+    }
+}
+
